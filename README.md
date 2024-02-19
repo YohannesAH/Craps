@@ -1,1 +1,1 @@
-# Craps
+"This is crap game famous in all casinos and alleys around the world with simple smart rules"
