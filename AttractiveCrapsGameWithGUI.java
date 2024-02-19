@@ -1,4 +1,4 @@
-// This is a simple craps game this game is famous all around the world through out alleys and casinos and its fun
+// This is a simple craps game this game is famous all around the world through out alleys and casinos and its fun!
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
